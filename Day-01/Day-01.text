@@ -1,0 +1,59 @@
+Day-01[10-08-2022]:
+===================
+	Good Morning..
+
+	Required Softwares:
+	===================
+		> Python
+		> Any Advanced Editors
+		> Advanced then need jupyter notebook and browser preferable [Mostly Google Chrome]
+
+	Python Downloads:
+	=================
+	> In browser try to search as
+		--- https://python.org
+	> Downloads
+		Windows => OS
+	> Python 2 versions
+		> python 3.xx
+		> python 2.xx
+	> 2 columns
+		> pre-release [Not fully coded]
+		> stable release [Fully coded]
+	> Stable release
+		> particular Version => cntrl + f
+			=> python 3.7.5
+	> File are
+		> windows help
+		> x86-64 embedded zip
+		> x86-64 executeable installer
+		> x86-64 web based installer
+		> x86 embedded zip
+		> x86 executeable installer
+		> x86 web based installer
+	> We need to check our OS bit
+		> 64 bit => x86-64 executeable installer
+		Click
+	> Download will be done
+
+	Python Installation:
+	====================
+	> After Download double tap on the software it will displays a dialogue box to install click on "yes"
+	> It will displays 2 options and 2 checkboxes they are
+		2 Checkboxes:
+		-------------
+		> Install for all users
+		> Add python 3.x for path
+		2 Options:
+		----------
+		> Install now [Default path]
+		> customize installation [User defined path]
+	> After clicking "install now" then it will displays a dialogue box to accept click on "yes" to proceed
+	> Then Click on "Next" and finally on "finish" button to finish the installation Process
+
+
+	Python Version Check:
+	=====================
+	> open command prompt thne type the command
+		==> python -V
+		It will displays the python installation version in your system
