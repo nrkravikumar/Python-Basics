@@ -1,0 +1,79 @@
+Day-02[11-08-2022]:
+===================
+	Good Morning ..
+
+	Python Errors:
+	==============
+	> cmd
+	> python -V
+
+	Python is not an internal or external command error..
+		> Python is not installed in your system
+		> Python version may be 2 or more
+		> Python is not added in your path
+
+	Python Execution:
+	=================
+	> Basic Procedure
+	> Using Advanced Editors
+	> IDLE
+	> Jupyter notebook
+
+	Basic Procedure:
+	================
+	> Editor => Notepad
+	> Interpreter => python
+		> file .py
+		> cmd where .py file exists
+		> filename.py
+		> command prompt
+
+	Using Advanced Editors:
+	=======================
+	> Atom,Notepad++,Editplus,Sublime,Geany etc.,
+	> Interpreter => python
+		> editor .py file
+		> shortcut => execute
+		> command prompt
+
+	IDLE [Integrated Development Learning Environment]:
+	===================================================
+	> IDLE => shell
+	> filename
+	> f5
+	> shell
+
+	Pip:
+	====
+	> External packages [Thord party] install
+
+	Pip Version Check:
+	==================
+	> pip -V
+
+	Jupyter Notebook Installations:
+	===============================
+	> cmd
+	> pip install jupyter notebook
+
+	Jupyter Notebook Running:
+	=========================
+	> cmd
+	> jupyter notebook
+	> browser
+	> .ipynb
+		i => Interactive
+		py => Python
+		nb => Notebook
+	> Literate Programming [Documentation + Coding]
+
+	Compiler:
+	=========
+	> line-by-line
+	> All errors will display at once
+
+	Interpreter:
+	=============
+	> line-by-line
+	> If error occurs then it will stops at that line it will not execute for another lines of code
+	
