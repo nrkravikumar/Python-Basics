@@ -1,0 +1,23 @@
+print(dir(list))
+print(list.__doc__)
+
+h = [78,78,4,7,78,'Naveen',True]
+print(h)
+h.append('Balaji')
+print(h)
+##h.append(45,78)
+##print(h)
+h.append([45,78,89,65])
+print(h)
+h.append((45,78,89,65))
+print(h)
+
+##h,extend(23)
+h.extend((12,96))
+print(h)
+h.extend([12,123,89])
+print(h)
+h.insert(0,235)
+print(h)
+h.insert(100,456)
+print(h)
